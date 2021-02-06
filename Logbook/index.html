@@ -5,6 +5,6 @@ title: Logbook
 <h1>{{ page.title }} </h1>
 <ul class="entries">
 	{% for entry in site.entries %}
-		<li><span>{{ entry.date | date_to_string }}</span> &raquo; <a href="{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a> </li>
+		<li><span>{{ entry.date | date: "%B %Y" }}</span> &raquo; <a href="{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a> </li>
 	{% endfor %}
 </ul> 
