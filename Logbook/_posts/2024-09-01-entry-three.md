@@ -4,7 +4,7 @@ title: "September 2024"
 date: 2024-09-01
 ---
 <h2>07/09/2024 </h2>
-<img src = "/images/Bug_coffee.jpeg" /> <br>
+<img src = "/images/Dboys_dinner.jpeg" /> <br>
 He just loves to help out in any way he can
 <h2> 01/09/2024</h2>
 
