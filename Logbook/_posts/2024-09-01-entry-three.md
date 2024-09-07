@@ -3,7 +3,9 @@ layout: entry
 title: "September 2024"
 date: 2024-09-01
 ---
-
+<h2>07/09/2024 </h2>
+<img src = "images/Bug_coffee.jpeg" /> <br>
+He just loves to help out in any way he can
 <h2> 01/09/2024</h2>
 
 <p>Since April of this year, I've been living in Melbourne. It's only a temporary thing, as I'm covering for one of my meteorology teachers from back in 2021 while he is completing his PhD, and with the terms he taught in coming to an end so too my time in Melbourne and this job. It's been a really satisfying job, one that taught me to love learning about theory again. I think that's a mode of being---the curious thinker---which is at risk of being frozen or forgotten once one leaves school. Of course, the opposite can be true depending on the person and circumstances. Don't get me wrong, there are things that operational experience will teach you, just by seeing things happen because it's your job to watch, always watch. But don't kill the curious thinker either. Some may say it's platitudinous to say this, but I really do think a mix of both is the most enlightening.In any case, it's been refreshing to do work quite different to my substantive work in Darwin; work different in nature, schedule and sociality. The reflection of this, naturally, is a renewed passion returning to my substantive work with new ideas for how our office works, particularly how we train incoming staff with a focus on developing analysis and forecasting skills, as well as other interesting ideas...which I'll remain glib about. </p>
